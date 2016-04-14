@@ -1,0 +1,8 @@
+#remove .idea dir
+.idea/
+
+#remove output dir
+out/
+
+#remove intelliJ-specific file
+Lab8.iml
