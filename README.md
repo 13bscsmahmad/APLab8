@@ -9,7 +9,7 @@ The objective of this lab is to implement the coin change problem using a greedy
 How to Run
 ----------
 
-Find the source file in src/coinchange dir. Compile, and run CoinChange.java.
+Find the source file in `src/coinchange` dir. Compile, and run `CoinChange.java`.
 Both methods run, first greedy, then dp.
 
 
